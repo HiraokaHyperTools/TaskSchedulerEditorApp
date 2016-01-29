@@ -44,7 +44,7 @@ History:
 
 ![p7](https://cloud.githubusercontent.com/assets/5955540/12669835/e90b098a-c6a6-11e5-90a2-d4c1239ec469.png)
 
-Run this simple app with `/tn task-name`. Other DLLs are working for us... (totally 3.2 MB!)
+Run this simple app with `/tn task-name`. Other DLLs are working for us... (total 3.2 MB!)
 
 ![run](https://cloud.githubusercontent.com/assets/5955540/12669863/293958b8-c6a7-11e5-9eb1-9b201431d9de.png)
 
