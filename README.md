@@ -6,6 +6,8 @@ Usage: `TaskSchedulerEditorApp.exe /tn task-name`
 - Microsoft .NET Framework 4.0
 - Windows 7 or later
 
+An alternative to [IScheduledWorkItem::EditWorkItem method](https://msdn.microsoft.com/ja-jp/library/windows/desktop/aa381225(v=vs.85).aspx)
+
 ```
 TaskSchedulerEditorApp.exe /tn DD36(土)(昼)
 ```
@@ -42,7 +44,7 @@ History:
 
 ![p7](https://cloud.githubusercontent.com/assets/5955540/12669835/e90b098a-c6a6-11e5-90a2-d4c1239ec469.png)
 
-Run this simple app with `/tn task-name`. Other DLLs are working for us...
+Run this simple app with `/tn task-name`. Other DLLs are working for us... (totally 3.2 MB!)
 
 ![run](https://cloud.githubusercontent.com/assets/5955540/12669863/293958b8-c6a7-11e5-9eb1-9b201431d9de.png)
 
